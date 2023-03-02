@@ -1,2 +1,5 @@
-env
+env/
 .git
+config.py
+utils.py
+__pycache__/
