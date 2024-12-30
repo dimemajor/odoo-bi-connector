@@ -23,10 +23,10 @@ def replace(cell, index=1):
 
 def get_options():
     options = {
-        'url': 'https://thalakoloerp.odoo.com',
-        'user': 'elijah.esangbedo@thlalakolo.com',
-        'password': '12',
-        'db': 'thlalakololtdgrp-thalakoloerp-main-5623164',
+        'url': 'localhost:8069',
+        'user': 'admin',
+        'password': 'admin',
+        'db': 'testdb',
         'chunk_interval': 30,
         'inception': '2022-10-01 00:00:00'
         }
